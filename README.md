@@ -23,4 +23,6 @@ I'm currently learning about Node js, MongoDB and other back-end stuff.
 
 If you want to contact me: juandiegoburich@gmail.com.
 
+LinkedIn: [Juan Burich](https://www.linkedin.com/in/juan-burich-4ab817187/)
+
 My resume: [Juan Burich CV](https://drive.google.com/file/d/1h3Toet8_tWgOS5br-CHyV8qKTB9R5uj9/view?usp=sharing)
