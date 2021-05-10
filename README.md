@@ -7,7 +7,7 @@ I'm currently working as Front-End Developer for Instituto Superior de Seguridad
 
 I'm in my last year of Tecnicatura Universitaria en Programación(2nd year of University). 🎓
 
-I studied Psycology for 3 years.
+I studied Psychology for 3 years.
 
 I play basketball since I'm 5 years old 🏀
 
