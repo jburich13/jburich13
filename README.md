@@ -5,7 +5,7 @@ I'm 22 years old and I'm from Argentina.
 
 I'm currently working as Front-End Developer for Instituto Superior de Seguridad Publica. 👮
 
-I'm in my last year of Tecnicatura Universitaria en Programación(2nd year of University). 🎓
+I'm on my last year of Tecnicatura Universitaria en Programación(2nd year of University). 🎓
 
 I studied Psychology for 3 years.
 
